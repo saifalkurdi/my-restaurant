@@ -1,2 +1,2 @@
 # my-restaurant
-![wireframe photo](/Wireframe.jpg)
+## ![wireframe photo](./Wireframe.jpg)
